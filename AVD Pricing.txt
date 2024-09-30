@@ -1,0 +1,23 @@
+Details Required for Preparing Azure Virtual Desktop (AVD) Estimation:
+Region where AVD is to be deployed
+Instance Size (RAM, vCPUs)
+OS Disk Type (Standard HDD, Standard SSD, Premium SSD)
+OS Disk Size 
+Image: Windows 10 Enterprise Multi-session or Windows 11 Enterprise Multi-session
+Average Usage Hours/Month per User
+Number of Users (Pooled Environment - Multi-session)
+Average Data Storage Required per User for Storing User Profiles
+20 gb per user
+
+
+Dear Sir,
+
+I hope this message finds you well. I am writing to formally resign from my position at G7CR Technologies.I kindly request to be released as soon as possible upon the completion of the project I have been assigned to.
+As of now, I am currently involved in two projects which are expected to close by this week. If there are any delays, I will ensure that they are completed before I leave.
+This was not an easy decision, and I am truly grateful for the opportunities, support, and experiences I have gained during my time here.
+Thank you once again for the guidance and trust you’ve placed in me.
+
+
+Sir, have you discussed with Jagan sir regarding the exit.If the projects gets closed by this week, I request you to release as soon as possible in October starting month.if project gets delayed, I will leave after the completion.
+
+
